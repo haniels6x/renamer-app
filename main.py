@@ -180,3 +180,4 @@ preview_box = tk.Listbox(root, width=100, height=25)
 preview_box.pack(pady=10)
 
 root.mainloop()
+ 
